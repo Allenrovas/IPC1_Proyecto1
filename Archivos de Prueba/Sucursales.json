@@ -1,0 +1,44 @@
+[
+  {
+    "codigo": 4,
+    "nombre": "Guatemala",
+    "direccion": "9 Calle 11Av. B",
+    "correo": "florence_hindle@yahoo.com",
+    "telefono": "37656981"
+  },
+  {
+    "codigo": 6,
+    "nombre": "Peten",
+    "direccion": "8 Av. Zona 12",
+    "correo": "talia_cotton@hotmail.com",
+    "telefono": "03576107"
+  },
+  {
+    "codigo": 7,
+    "nombre": "Izabal",
+    "direccion": "15 Calle 9Av. A, zona 11",
+    "correo": "hope_solo@gmail.com",
+    "telefono": "52435701"
+  },
+  {
+    "codigo": 1,
+    "nombre": "Solola",
+    "direccion": "12 Calle 6Av. B, zona 4",
+    "correo": "vladimir_lenin@mail.com",
+    "telefono": "87149042"
+  },
+  {
+    "codigo": 24,
+    "nombre": "Escuintla",
+    "direccion": "5 Calle 4Av. A, zona 6",
+    "correo": "steffi_graf@yahoo.com",
+    "telefono": "71633685"
+  },
+  {
+    "codigo": 15,
+    "nombre": "Santa Rosa",
+    "direccion": "7 Calle 3Av. B, zona 3",
+    "correo": "corky_miller@yahoo.com",
+    "telefono": "13185362"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "Dannie",
+    "nit": 998877,
+    "correo": "dannie_haynes@mail.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 2,
+    "nombre": "Clyde",
+    "nit": 112233,
+    "correo": "clyde_tierney@hotmail.com",
+    "genero": "f"
+  },
+  {
+    "codigo": 6,
+    "nombre": "Ruth",
+    "nit": 649887,
+    "correo": "ruth_findlay@gmail.com",
+    "genero": "f"
+  },
+  {
+    "codigo": 4,
+    "nombre": "Jonas",
+    "nit": 703069,
+    "correo": "jonas_green@yandex.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 14,
+    "nombre": "Kenda",
+    "nit": 279928,
+    "correo": "kenda_neville@outlook.com",
+    "genero": "f"
+  },
+  {
+    "codigo": 65,
+    "nombre": "Fredrick",
+    "nit": 211298,
+    "correo": "fredrick_wales@outlook.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 24,
+    "nombre": "Mario",
+    "nit": 475699,
+    "correo": "Maverick_wal@outlook.com",
+    "genero": "m"
+  }
+]

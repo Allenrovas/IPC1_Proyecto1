@@ -1,0 +1,142 @@
+[
+  {
+    "codigo": 7,
+    "nombre": "Barreno",
+    "descripcion": "Herramienta de trabajo de construcción",
+    "cantidad": 30,
+    "precio": 360.0
+  },
+  {
+    "codigo": 5,
+    "nombre": "Jabon",
+    "descripcion": "Jabon para lavar ropa",
+    "cantidad": 100,
+    "precio": 25.0
+  },
+  {
+    "codigo": 4,
+    "nombre": "Alicate",
+    "descripcion": "Aprieta, alfoja, estira, y doblega piezas.",
+    "cantidad": 145,
+    "precio": 15.0
+  },
+  {
+    "codigo": 15,
+    "nombre": "Martillo",
+    "descripcion": "Remacha, cincela, repuja, y aplana un material o clavo.",
+    "cantidad": 250,
+    "precio": 30.0
+  },
+  {
+    "codigo": 18,
+    "nombre": "Pistola de soldar",
+    "descripcion": "Útil para la soldadura con estaño, de partes electronicas",
+    "cantidad": 50,
+    "precio": 70.0
+  },
+  {
+    "codigo": 79,
+    "nombre": "Destornillador",
+    "descripcion": "Aprieta, afloja tornilos, y otros elementos de maquinas.",
+    "cantidad": 210,
+    "precio": 10.0
+  },
+  {
+    "codigo": 47,
+    "nombre": "Cincel",
+    "descripcion": "Para cortar materiales, extraccion de virutas.",
+    "cantidad": 125,
+    "precio": 5.0
+  },
+  {
+    "codigo": 12,
+    "nombre": "Navaja",
+    "descripcion": "Destornilla, atornilla, pela cables electricos, corta carton, etc.",
+    "cantidad": 75,
+    "precio": 17.0
+  },
+  {
+    "codigo": 70,
+    "nombre": "Cutter",
+    "descripcion": "Para cortar en linea recta, materiales finos y blandos.",
+    "cantidad": 54,
+    "precio": 7.0
+  },
+  {
+    "codigo": 57,
+    "nombre": "Cortador de tubo PVC",
+    "descripcion": "Cortes de tubos de PVC, en instalaciones y mantenimiento",
+    "cantidad": 24,
+    "precio": 15.0
+  },
+  {
+    "codigo": 43,
+    "nombre": "Sierra",
+    "descripcion": "Corta madera, plástico, aluminio, acero, etc.",
+    "cantidad": 89,
+    "precio": 22.0
+  },
+  {
+    "codigo": 63,
+    "nombre": "Jabon",
+    "descripcion": "Jabon para lavar ropa",
+    "cantidad": 100,
+    "precio": 25.0
+  },
+  {
+    "codigo": 41,
+    "nombre": "Compresor de aire",
+    "descripcion": "Toma el aire del ambiente, lo almacena, infla diferentes objetos.",
+    "cantidad": 30,
+    "precio": 350.0
+  },
+  {
+    "codigo": 35,
+    "nombre": "Engrapadora manual",
+    "descripcion": "Fijar clavos, puntas y grapas de carpintería.",
+    "cantidad": 54,
+    "precio": 30.0
+  },
+  {
+    "codigo": 22,
+    "nombre": "Pulidora",
+    "descripcion": "Se trabaja en metal, madera depende del tipo de trabajo a realizar",
+    "cantidad": 35,
+    "precio": 125.0
+  },
+  {
+    "codigo": 32,
+    "nombre": "Metro",
+    "descripcion": "Se utiliza en la carpinteria y bricolaje.",
+    "cantidad": 85,
+    "precio": 23.0
+  },
+  {
+    "codigo": 14,
+    "nombre": "Tuerca",
+    "descripcion": "Pieza mecanica con un orificio central.",
+    "cantidad": 100,
+    "precio": 25.0
+  },
+  {
+    "codigo": 37,
+    "nombre": "Llave inglesa",
+    "descripcion": "Herramienta manual utilizada para aflojar o ajustar tuercas.",
+    "cantidad": 240,
+    "precio": 35.0
+  },
+  {
+    "codigo": 46,
+    "nombre": "Calibre",
+    "descripcion": "Mide los espesores y diametros interiores y exteriores.",
+    "cantidad": 65,
+    "precio": 44.0
+  },
+  {
+    "codigo": 105,
+    "nombre": "Guantes Antideslizantes",
+    "descripcion": "Sujetar bien las piezas de madera entre otros.",
+    "cantidad": 100,
+    "precio": 25.0
+  }
+]

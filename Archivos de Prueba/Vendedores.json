@@ -1,0 +1,82 @@
+[
+  {
+    "codigo": 16,
+    "nombre": "Lizeth",
+    "caja": 103,
+    "ventas": 25,
+    "genero": "f",
+    "password": 1234
+  },
+  {
+    "codigo": 24,
+    "nombre": "Lorenzo",
+    "caja": 110,
+    "ventas": 15,
+    "genero": "m",
+    "password": 1234
+  },
+  {
+    "codigo": 19,
+    "nombre": "Tanya",
+    "caja": 100,
+    "ventas": 20,
+    "genero": "f",
+    "password": 1234
+  },
+  {
+    "codigo": 28,
+    "nombre": "Derick",
+    "caja": 124,
+    "ventas": 75,
+    "genero": "m",
+    "password": 1234
+  },
+  {
+    "codigo": 13,
+    "nombre": "Andrew",
+    "caja": 118,
+    "ventas": 42,
+    "genero": "m",
+    "password": 1234
+  },
+  {
+    "codigo": 21,
+    "nombre": "Michael",
+    "caja": 145,
+    "ventas": 52,
+    "genero": "m",
+    "password": 1234
+  },
+  {
+    "codigo": 15,
+    "nombre": "Shawanna",
+    "caja": 125,
+    "ventas": 37,
+    "genero": "f",
+    "password": 1234
+  },
+  {
+    "codigo": 47,
+    "nombre": "Wilfred",
+    "caja": 109,
+    "ventas": 65,
+    "genero": "m",
+    "password": 1234
+  }
+  ,{
+    "codigo": 29,
+    "nombre": "Alexandria",
+    "caja": 135,
+    "ventas": 45,
+    "genero": "f",
+    "password": 1234
+  },
+  {
+    "codigo": 65,
+    "nombre": "Sergio",
+    "caja": 111,
+    "ventas": 47,
+    "genero": "m",
+    "password": 1234
+  }
+]
